@@ -2,8 +2,7 @@
 사일로랩 **기술개발팀** 깃허브 계정입니다.
 
 
-***생성일자 23.04.24***
----
+***생성일자 23.04.24
 
 <!--
 **SILO-KSH/SILO-KSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
