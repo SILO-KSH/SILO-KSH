@@ -10,7 +10,7 @@
 🍋터미널단축키
 
 
-***생성일자 23.04.24***
+                                              ***생성일자 23.04.24***
 
 <!--
 **SILO-KSH/SILO-KSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
