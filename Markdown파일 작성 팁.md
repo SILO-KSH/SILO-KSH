@@ -8,6 +8,8 @@ http://blog.cowkite.com/blog/2102241544/
 
 2. 마크다운에 관하여
    - 마크다운이란
-   : 텍스트기반 언어로 쉽게 쓰고 읽을 수 있으며 HTML로 변환이 가능하다.
+   : 텍스트기반 언어로 쉽게 쓰고 읽을 수 있으며 HTML로 변환이 가능하다. ppt도 만들수있음.
+
+   https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 
