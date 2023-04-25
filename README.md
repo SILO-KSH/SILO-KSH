@@ -15,7 +15,7 @@
 ◆ SILO-Practice레퍼지토리 
 - 실습용 레퍼지토리
 
-![Alt text](C:\Users\silolab_ksh\Desktop\사일로랩\SILO명함뒷면)
+![Alt text](/path/to/SILO명함뒷면.png)
 
 
                                               ***생성일자 23.04.24***
