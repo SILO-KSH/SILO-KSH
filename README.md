@@ -14,6 +14,9 @@
 ◆ SILO-Practice레퍼지토리 
 - 실습용 레퍼지토리
 
+---
+ 
+![Alt text](../../%EC%82%AC%EC%9D%BC%EB%A1%9C%EB%9E%A9/SILO%EB%AA%85%ED%95%A8%EB%92%B7%EB%A9%B4.png)
 
                                               ***생성일자 23.04.24***
 
