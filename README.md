@@ -10,9 +10,12 @@
 
 - 깃허브가이드PPT자료        
 - 터미널단축키
+- README.md파일 팁
 
 ◆ SILO-Practice레퍼지토리 
 - 실습용 레퍼지토리
+
+![Alt text](C:\Users\silolab_ksh\Desktop\사일로랩\SILO명함뒷면)
 
 
                                               ***생성일자 23.04.24***
