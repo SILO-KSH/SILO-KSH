@@ -13,7 +13,7 @@
 - README.md파일 팁
 
 ◆ SILO-Practice레퍼지토리 
-- 실습용 레퍼지토리
+- 실습용 레퍼지토리fdafda
 
 ![Alt text](/path/to/SILO명함뒷면.png)
 
