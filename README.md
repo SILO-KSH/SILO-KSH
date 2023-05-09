@@ -13,8 +13,11 @@
 - README.md파일 팁
 
 ◆ SILO-Practice레퍼지토리 
-- 실습용 레퍼지토리
+- 깃허브 개인 과제 실습용 레퍼지토리
 
+
+◆ SILO-forktest레퍼지토리 
+- 깃 협업 PullRequest 실습용 레퍼지토리
                                               ***생성일자 23.04.24***
 
 <!--
